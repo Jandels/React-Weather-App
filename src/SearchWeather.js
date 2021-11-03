@@ -61,7 +61,9 @@ export default function SearchWeather() {
           <li>Wind: {weather.wind}km/h</li>
         </ul>
         <img src={weather.icon} alt={weather.description} />
-        <a href="https://github.com/Jandels/Weather-App">Open Source Code</a>
+        <a href="https://github.com/Jandels/React-Weather-App">
+          Open Source Code
+        </a>
         by Jandels hosted on Netlify
       </div>
     );
