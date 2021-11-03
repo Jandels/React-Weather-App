@@ -9,6 +9,10 @@ ReactDOM.render(
   <React.StrictMode>
     {/* <App /> */}
     <SearchWeather />
+    <div>
+      <a href="https://github.com/Jandels/Weather-App">Open Source Code</a>
+      by Jandels hosted on Netlify
+    </div>
   </React.StrictMode>,
   document.getElementById("root")
 );
