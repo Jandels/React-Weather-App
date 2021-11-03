@@ -3,13 +3,13 @@
   width: 50%;
   margin: auto;
   padding: 60px;
-  background: blue;
-  border: 5px solid green;
+  background: #61dafb;
+  border: 5px solid #282c34;
   border-radius: 25px;
 }
 
 h1 {
-  color: black;
+  color: #282c34;
   font-family: Arial, Helvetica, sans-serif;
   padding: 20px;
   font-weight: bold;
