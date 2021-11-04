@@ -64,13 +64,17 @@ export default function SearchWeather() {
         <a href="https://github.com/Jandels/React-Weather-App">
           Open Source Code
         </a>
-        by Jandels hosted on Netlify
+        {""} by Jandels hosted on Netlify
       </div>
     );
   } else {
     return (
       <div className="SearchWeather">
         <h1>Weather Forecast</h1> {form}
+        <a href="https://github.com/Jandels/React-Weather-App">
+          Open Source Code
+        </a>
+        {""} by Jandels hosted on Netlify
       </div>
     );
   }
